@@ -7,7 +7,7 @@ A blank canvas on which one can freely draw.
 • .NET Framework 4.7.2 or newer
 
 # Download
-Click the Code button, then click on "Download ZIP"
+Click the Code button, then click on "Download ZIP".
 
 # Execution
 Run Drawing.exe, located in Drawing\Drawing\bin\Debug
