@@ -12,7 +12,7 @@ Click the Code button, then click on "Download ZIP"
 # Execution
 Run Drawing.exe, located in Drawing\Drawing\bin\Debug
 
-# Usage
+# How to Use
 • Hold left click and drag the cursor on the app to draw.
 
 • Click on "Color" to select the color of your brush. Select one of the default colors, or create a custom one.
